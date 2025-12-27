@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3626d3e99b70015e",
+        "id": "1339ba5636ee5383",
         "type": "tabs",
         "children": [
           {
-            "id": "542ef399a564c7da",
+            "id": "d68c40bdde0f6495",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件分析/软件分析.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "软件分析"
+              "title": "新标签页"
             }
           }
         ]
@@ -155,6 +151,8 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "542ef399a564c7da",
-  "lastOpenFiles": []
+  "active": "d68c40bdde0f6495",
+  "lastOpenFiles": [
+    "软件分析/软件分析.md"
+  ]
 }
