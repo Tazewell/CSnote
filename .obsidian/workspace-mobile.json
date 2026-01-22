@@ -11,10 +11,14 @@
             "id": "d68c40bdde0f6495",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/创建型模式.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "创建型模式"
             }
           }
         ]
@@ -96,7 +100,7 @@
           "state": {
             "file": "软件分析/软件分析.md",
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -153,6 +157,20 @@
   },
   "active": "d68c40bdde0f6495",
   "lastOpenFiles": [
-    "软件分析/软件分析.md"
+    "软件分析/第二章软件建模与UML.pdf",
+    "软件分析/第三章用例建模.pdf",
+    "软件分析/软件分析.md",
+    "软件分析/~$第五章动态建模.pptx",
+    "软件分析/images/Pasted image 20251228093129.png",
+    "软件分析/images/Pasted image 20251228092629.png",
+    "软件分析/images/Pasted image 20251228092430.png",
+    "软件分析/images/Pasted image 20251228092304.png",
+    "软件分析/images/Pasted image 20251228092238.png",
+    "软件分析/images/Pasted image 20251228091722.png",
+    "软件分析/images/Pasted image 20251228084329.png",
+    "软件分析/images/Pasted image 20251228083753.png",
+    "软件分析/images/Pasted image 20251227225911.png",
+    "软件分析/images/Pasted image 20251227225326.png",
+    "未命名.md"
   ]
 }
