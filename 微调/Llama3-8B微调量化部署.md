@@ -24,3 +24,4 @@
 ```
 ![[Pasted image 20260605171633.png]] 在配置完 llama-factory 后我们对基模进行测试，作为微调前的输出结果
 ![[Pasted image 20260605171714.png]]
+![[Pasted image 20260605185328.png]]
